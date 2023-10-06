@@ -36,6 +36,6 @@ Let's chat over a virtual coffee or discuss the latest game strategies:
 
 ## GitHub Stats 📈
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=dark)
+![My GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=dark](https://github-readme-stats.vercel.app/api?username=Paulen101&show_icons=true&count_private=true&theme=dark))
 
 Thanks for dropping by my digital hangout! I'm always up for a good code challenge or game session. Let's build, battle, and brew! ☕🎮
