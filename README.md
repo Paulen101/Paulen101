@@ -9,10 +9,6 @@ Welcome to my cozy corner of GitHub, where code meets coffee and games! I'm a un
 - 🕹️ By night, I'm a gamer who loves conquering Sports Games and Strategy Games.
 - ☕ Coffee is my constant companion on this coding journey.
 
-<p align="center">
-  <img src="https://gist.github.com/d0p1s4m4/471577aacf87bb036290c64b758c426c" alt="Coffee Sticker">
-</p>
-
 ## What I'm Up To
 
 - 🌟 Crafting a medical appointment app.
