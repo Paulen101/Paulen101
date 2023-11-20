@@ -5,7 +5,7 @@ Welcome to my cozy corner of GitHub, where code meets coffee and games! I'm a un
 ## About Me
 
 - 🌆 Based in Cambodia, fueled by Depresso.
-- 💼 By day, I'm a student at AUPP.
+- 💼 By day, I'm a dual degree student at AUPP and FHSU.
 - 🕹️ By night, I'm a gamer who loves conquering Sports Games and Strategy Games.
 - ☕ Coffee is my constant companion on this coding journey.
 
@@ -13,7 +13,7 @@ Welcome to my cozy corner of GitHub, where code meets coffee and games! I'm a un
 
 - 🌟 Crafting a medical appointment app.
 - 🎮 Exploring the vast landscapes of Forza Horizon 5.
-- 📚 Learning ICT.
+- 📚 Learning ITM and CS.
 - 📝 Writing about my tech adventures on my blog. (Coming soon)
 
 ## My Gaming Arsenal 🎮
