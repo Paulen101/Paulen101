@@ -11,7 +11,7 @@ Welcome to my cozy corner of GitHub, where code meets coffee and games! I'm a un
 
 ## What I'm Up To
 
-- 🌟 Crafting a medical appointment app.
+- 🌟 Working on some robotic projects.
 - 🎮 Exploring the vast landscapes of Forza Horizon 5.
 - 📚 Learning ITM and CS.
 - 📝 Writing about my tech adventures on my blog. (Coming soon)
@@ -22,14 +22,14 @@ You can often find me in these virtual realms:
 
 - 🚀 [MLBB] - Rank [Mythic], Wanted to be a professional player but probably won't happen.
 - 🏰 [Forza Horizon] - Exploring new places and experience some good racing.
-- 🌌 [EA Sports FC 24] - A football fan playing a foodball game.
+- 🌌 [EA Sports FC 24] - A football fan playing a football game.
 
 
 ## Connect with Me ☕
 
 Let's chat over a virtual coffee or discuss the latest game strategies:
 
-- ☕ [Instagram](https://www.instagram.com/paulchhun__/)
+- ☕ [Instagram](https://www.instagram.com/paulchhun/)
 - 🎮 [Steam](https://steamcommunity.com/profiles/76561198338597121/)
 - 💼 [Facebook](https://www.facebook.com/profile.php?id=100006603306164)
 
