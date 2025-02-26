@@ -16,15 +16,6 @@ Welcome to my cozy corner of GitHub, where code meets coffee and games! I'm a un
 - 📚 Learning ITM and CS.
 - 📝 Writing about my tech adventures on my blog. (Coming soon)
 
-## My Gaming Arsenal 🎮
-
-You can often find me in these virtual realms:
-
-- 🚀 [MLBB] - Rank [Mythic], Wanted to be a professional player but probably won't happen.
-- 🏰 [Forza Horizon] - Exploring new places and experience some good racing.
-- 🌌 [EA Sports FC 24] - A football fan playing a football game.
-
-
 ## Connect with Me ☕
 
 Let's chat over a virtual coffee or discuss the latest game strategies:
